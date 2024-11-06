@@ -1,0 +1,85 @@
+.playerspic{
+    width: 300px;
+}
+#headpic{
+    position: relative;
+    left: 170px;
+    z-index: 20;
+}
+#cumminspic{
+    z-index: 21;
+    position: relative;
+}
+#abhishekpic{
+    position: relative;
+    left: 335px;
+}
+#klaseenpic{
+    position: relative;
+    right: 170px;
+    z-index: 19;
+}
+#nithishpic{
+    position: relative;
+    
+    bottom: 300px;
+    left: 870px;
+    
+    z-index: 18;
+}
+.mainheading{
+    text-align: center;
+    color: blueviolet;
+}
+.ipllogo{
+    width: 150px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    
+    
+}
+.parent{
+    width: 600px;
+    height: 500px;
+    
+    background-color: blueviolet;
+    position: relative;
+}
+.firstchild{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: absolute;
+    bottom: 0px;
+    
+  
+    
+    
+    
+
+}
+.secondchild{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position:  absolute;
+    top: 0px;
+     right: 0px;
+   
+     
+     
+    
+
+}
+ 
+ 
+
+
+
+
+
+
+
+
+ 
